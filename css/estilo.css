@@ -78,6 +78,7 @@ ul.lista-aulas li a span{
 h1, h2, h3 {
 	margin-top: 20px;
 	font-weight: normal;
+	font-size: 95%;
 }
 div.conteudo, div.sobre{
 	padding-bottom: 20px;
